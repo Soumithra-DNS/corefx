@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Temporary files
+*.tmp
+*~
+
+# VS Code
+.vscode/
